@@ -1,4 +1,4 @@
-
+// Lomuto Partition 
 
 #include<bits/stdc++.h>
 using namespace std;
